@@ -1,5 +1,5 @@
 # BagItUp! – Food Waste Reduction Platform
-Project Overview
+# Project Overview
 
 BagItUp! is a software system designed as part of the Object-Oriented Analysis and Design course project.
 
