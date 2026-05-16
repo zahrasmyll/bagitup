@@ -10,24 +10,24 @@ The platform connects consumers with businesses that have surplus food available
 ## Main Features
 ### Consumer Features
 
-Browse nearby surprise bags via map interface
-Secure in-app payment
-QR code generation for pickup verification
-Eco-points and loyalty rewards
-Optional home delivery
+- Browse nearby surprise bags via map interface
+- Secure in-app payment
+- QR code generation for pickup verification
+- Eco-points and loyalty rewards
+- Optional home delivery
 
 ### Business Features
 
-Create and manage surprise bag listings
-Manage promotions and campaigns
-Verify customer pickup using QR scanning
-Track orders and sales
+- Create and manage surprise bag listings
+- Manage promotions and campaigns
+- Verify customer pickup using QR scanning
+- Track orders and sales
 
 ### Courier Features
 
-Delivery assignment
-Delivery tracking
-QR-based delivery confirmation
+- Delivery assignment
+- Delivery tracking
+- QR-based delivery confirmation
 
 [OOAD_ProjectActivity5_GROUP_19 2.pdf](https://github.com/user-attachments/files/27853750/OOAD_ProjectActivity5_GROUP_19.2.pdf)
 
@@ -35,19 +35,19 @@ QR-based delivery confirmation
 
 BagItUp uses:
 
-Client-Server Architecture
-Microservices Architecture
-Layered System Design
-Role-Based Access Control
+- Client-Server Architecture
+- Microservices Architecture
+- Layered System Design
+- Role-Based Access Control
 
 Main subsystems:
 
-Mobile Application
-Business Dashboard
-Payment Service
-Order Management Service
-Delivery Service
-Eco-Points Service
+- Mobile Application
+- Business Dashboard
+- Payment Service
+- Order Management Service
+- Delivery Service
+- Eco-Points Service
 
 [OOAD_SDD_Group19 .pdf](https://github.com/user-attachments/files/27853774/OOAD_SDD_Group19.pdf)
 
@@ -55,22 +55,23 @@ Eco-Points Service
 
 This project includes:
 
-Use Case Diagrams
-Class Diagrams
-Sequence Diagrams
-State Machine Diagrams
-Deployment Diagrams
-Component Diagrams
+- Use Case Diagrams
+- Class Diagrams
+- Sequence Diagrams
+- State Machine Diagrams
+- Deployment Diagrams
+- Component Diagrams
 
 ## UI Design
 
 The user interface was designed using Figma and includes:
 
-Login Screen
-Map Screen
-Payment Screen
-QR Verification Screen
-Business Dashboard
+- Login Screen
+- Map Screen
+- Payment Screen
+- QR Verification Screen
+- Business Dashboard
+
 [OOAD_ProjectActivity5_GROUP_19 2.pdf](https://github.com/user-attachments/files/27853797/OOAD_ProjectActivity5_GROUP_19.2.pdf)
 
 
