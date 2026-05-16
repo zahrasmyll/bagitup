@@ -74,12 +74,6 @@ The user interface was designed using Figma and includes:
 
 [OOAD_ProjectActivity5_GROUP_19 2.pdf](https://github.com/user-attachments/files/27853797/OOAD_ProjectActivity5_GROUP_19.2.pdf)
 
+## Team Project
 
-
-
-
-
-
-
-
-
+Developed by Group 19 as a university software engineering project.
